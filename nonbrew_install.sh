@@ -83,6 +83,10 @@ install_dmg \
 install_dmg \
   "https://resources.ninjarmm.com/development/ninjacontrol/11.35.7720/ncplayer.dmg" \
   "NinjaOne ncplayer"
+# 8. TeamViewer (DMG)
+install_dmg \
+"https://download.teamviewer.com/download/TeamViewer.dmg?_gl=1*dwyr8y*_gcl_au*MTU0NjExODk5Ny4xNzY1MjY5NjYx"
+"TeamViewer"
 
 echo ""
 echo "🎉 All apps installed successfully!"
